@@ -1,0 +1,125 @@
+body {
+  background-image:url("https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  }
+
+header {
+  font-family: 'Abril Fatface', cursive;
+  font-size:30px;
+  padding-left:400px;
+  padding-top:300px;
+}
+
+.analytical {
+  position:relative;
+  margin-top:80px;
+  margin-left:400px;
+  margin-right:auto;
+  padding-left:10px;
+  font-family: 'Josefin Sans', sans-serif;
+  width: 1000px;
+  }
+
+.greybox1 {
+  width: 1000px;
+  height: 150px;
+  margin-left:300px;
+  margin-right:auto;
+  background-color: grey;
+  position: relative;
+  font-family: 'Abril Fatface', cursive;
+  color: white;
+  font-size: 40px;
+  padding-left:100px;
+  padding-top:10px;
+} 
+blockquote::before {
+  content: '”';
+  position: absolute;
+  top: 0;
+  left: 0px;
+  font-size: 140px;
+  margin: 0;
+  padding: 0;
+  color: white;
+  
+/*  font-family: 'Abril Fatface', cursive;
+  color: black;*/
+}
+
+.notable {
+  position:relative;
+  margin-top:80px;
+  margin-left:400px;
+  margin-right:auto;
+  padding-left:10px;
+  font-family: 'Josefin Sans', sans-serif;
+  width: 1000px;
+}
+
+.greybox2 {
+  width: 1000px;
+  height: 150px;
+  margin-left:300px;
+  margin-right:auto;
+  background-color: grey;
+  position: relative;
+  font-family: 'Abril Fatface', cursive;
+  color: white;
+  font-size: 40px;
+  padding-left:100px;
+  padding-top:10px;
+} 
+
+.experience {
+  position:relative;
+  margin-top:80px;
+  margin-left:300px;
+  margin-right:auto;
+  padding-left:50px;
+  font-family: 'Josefin Sans', sans-serif;
+  width: 1000px;
+  
+}
+
+.greybox3 {
+  width: 1000px;
+  height: 150px;
+  margin-left:300px;
+  margin-right:auto;
+  background-color: grey;
+  position: relative;
+  font-family: 'Abril Fatface', cursive;
+  color: white;
+  font-size: 40px;
+  padding-left:40px;
+  padding-top:10px;
+} 
+
+.formal {
+position:relative;
+  margin-top:80px;
+  margin-left:auto;
+  margin-right:auto;
+  padding-left:10px;
+  font-family: 'Josefin Sans', sans-serif;
+  width: 1000px;
+}
+.greybox4 {
+  width: 1000px;
+  height: 10px;
+  margin: auto;
+  background-color: black;
+}
+
+.personal {
+  position:relative;
+  margin-top:80px;
+  margin-left:auto;
+  margin-right:auto;
+  padding-left:10px;
+  font-family: 'Josefin Sans', sans-serif;
+  width: 1000px;
+  
+}
